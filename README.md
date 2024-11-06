@@ -1,5 +1,6 @@
 # VasyaChatBot
-Прототип
+Прототип.
+Nuget:
 ```
 install-package Telegram.bot
 ```
